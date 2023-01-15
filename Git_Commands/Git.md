@@ -1,29 +1,3 @@
-**explorer .** Opens explorer
-
-**code .** Opens visual studio code
-
-**pwd** Shows current path
-
-**ls -la** Lists table format and hidden files
-
-**\--help** Shows details about a command
-
-**\>\>** Appends to a file
-
-**rm -rf** Removes a folder that has contents
-
-**ls -la** Lists the files in the working directory
-
-**ls -la .git/objects** Lists the files in local git repository
-
-**find .git/objects -type f** Lists the files in the git repository
-
-**cat .git/HEAD** Checks which branch or commit HEAD is pointing to
-
-**cat .git/refs/heads/master** Checks which commit master branch is pointing to
-
-**cat .git/refs/heads/BRANCH_NAME** Checks which commit BRANCH_NAME branch is pointing to
-
 **Example of Git pointers**:
 
 ![head_main_origin-head_origin-main](https://user-images.githubusercontent.com/22715620/212566175-67ba595f-acb8-4719-ba92-00734a0c2a60.png)

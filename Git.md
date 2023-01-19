@@ -56,7 +56,7 @@ case, main is pointing to the commit 16a000
 
 **Git pull:**
 
-- **git pull** Performs git fetch followed by git merge FETCH_HEAD
+- **git pull** Performs git fetch followed by git merge FETCH_HEAD. Pulls remote repository into local repository
 
 **Git show-ref:**
 
@@ -84,10 +84,12 @@ case, main is pointing to the commit 16a000
 
 **Git push:**
 
+- **
 - **git push origin vX.X.X** Pushes vX.X.X local tag to remote repository
 - **git push \--tags** Pushes all local tags to remote repository
 - **git push origin -d BRANCH_NAME** Deletes remote branch
 - **git push -u origin BRANCH_NAME** Same as \--set-upstream, used to create remote branch of an already created local branch, modifying it to a tracking branch
+- **git push --force-with-lease origin BRANCH_NAME Overwrites remote branch origin with your local branch BRANCH_NAME commits 
 
 **Git tag:**
 
@@ -156,8 +158,7 @@ More info: https://devhints.io/git-log-format
 2. git pull
 3. git checkout BRANCH_NAME
 4. git pull
-5. git rebase -i origin/main (if VIM, use \"i\" to insert, \"esc\" to stop insert, \":x\" to exit and
-save)
+5. git rebase -i origin/main (if VIM, use \"i\" to insert, \"esc\" to stop insert, \":x\" to exit and save)
 6. git push \--force-with-lease origin BRANCH-NAME
 
 **Pull into forked from original repository (Azure DevOps, Azure Databricks):**

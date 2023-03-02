@@ -1,0 +1,11 @@
+- **explorer .** Opens explorer
+- **code .** Opens visual studio code
+- **pwd** Shows current path
+- **ls -la** Lists table format and hidden files
+- **\--help** Shows details about a command
+- **\>\>** Appends to a file
+- **rm -rf** Removes a folder that has contents
+- **ls -la** Lists the files in the working directory
+- **set ENV_VAR_NAME="PATH;%ENV_VAR_NAME%"** Sets the environment variable for the current command prompt session only
+- **setx ENV_VAR_NAME "PATH"** Sets the environment variable permanently in the user's environment variables
+- **setx /M ENV_VAR_NAME "PATH"** Sets the environment variable permanently in the system's environment variables

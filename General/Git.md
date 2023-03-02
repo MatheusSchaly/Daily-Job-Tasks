@@ -145,6 +145,13 @@ case, main is pointing to the commit 16a000
 
 - **git log** Shows the commits logs
 
+**Terminal commands for git:**
+- **ls -la .git/objects** Lists the files in local git repository
+- **find .git/objects -type f** Lists the files in the git repository
+- **cat .git/HEAD** Checks which branch or commit HEAD is pointing to
+- **cat .git/refs/heads/master** Checks which commit master branch is pointing to
+- **cat .git/refs/heads/BRANCH_NAME** Checks which commit BRANCH_NAME branch is pointing to
+
 **Git lg alias possible options:**
 
 - git config \--global alias.lg \"log \--color \--graph \--pretty=format:\'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%C(bold blue)\<%an\>%Creset\' \--abbrev-commit\"

@@ -1,0 +1,40 @@
+File:         02packages.details.txt
+URL:          http://www.perl.com/CPAN/modules/02packages.details.txt
+Description:  Package names found in cpanfile.snapshot
+Columns:      package name, version, path
+Intended-For: Automated fetch routines, namespace documentation.
+Written-By:   Carton v1.0.35
+Line-Count:   31
+Last-Updated: Mon Mar 13 19:30:44 2023
+
+ExtUtils::CChecker                 0.11  P/PE/PEVANS/ExtUtils-CChecker-0.11.tar.gz
+Module::Build                    0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Base              0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Compat            0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Config            0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Cookbook          0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Dumper            0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Notes             0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::aix     0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::cygwin  0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::darwin  0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::Default 0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::MacOS   0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::os2     0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::Unix    0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::VMS     0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::VOS     0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::Platform::Windows 0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::PodParser         0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Module::Build::PPMMaker          0.4232  L/LE/LEONT/Module-Build-0.4232.tar.gz
+Path::Tiny                        0.144  D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
+Path::Tiny::Error                 0.144  D/DA/DAGOLDEN/Path-Tiny-0.144.tar.gz
+Syntax::Keyword::Try               0.28  P/PE/PEVANS/Syntax-Keyword-Try-0.28.tar.gz
+Syntax::Keyword::Try::Deparse      0.28  P/PE/PEVANS/Syntax-Keyword-Try-0.28.tar.gz
+Text::CSV                          2.02  I/IS/ISHIGAKI/Text-CSV-2.02.tar.gz
+Text::CSV::ErrorDiag               2.02  I/IS/ISHIGAKI/Text-CSV-2.02.tar.gz
+Text::CSV_PP                       2.02  I/IS/ISHIGAKI/Text-CSV-2.02.tar.gz
+XS::Parse::Infix                   0.33  P/PE/PEVANS/XS-Parse-Keyword-0.33.tar.gz
+XS::Parse::Infix::Builder          0.33  P/PE/PEVANS/XS-Parse-Keyword-0.33.tar.gz
+XS::Parse::Keyword                 0.33  P/PE/PEVANS/XS-Parse-Keyword-0.33.tar.gz
+XS::Parse::Keyword::Builder        0.33  P/PE/PEVANS/XS-Parse-Keyword-0.33.tar.gz

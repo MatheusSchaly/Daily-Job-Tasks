@@ -1,0 +1,44 @@
+=head2 Mon Mar 13 22:08:25 2023: C<Module> L<Text::CSV|Text::CSV>
+
+=over 4
+
+=item *
+
+C<installed into: /home/schaly/git/Daily-Job-Tasks/Perl/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Mar 13 22:21:16 2023: C<Module> L<Path::Tiny|Path::Tiny>
+
+=over 4
+
+=item *
+
+C<installed into: /home/schaly/git/Daily-Job-Tasks/Perl/local/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.144>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
